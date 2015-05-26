@@ -8,6 +8,7 @@ public class Main {
 
         System.out.println(test.BicycleCalories( 20 , 10, 10 ));
 //test;
+        new test;
     }
 }
 sdf
