@@ -7,7 +7,7 @@ public class Main {
         MountainBike test = new MountainBike();
 
         System.out.println(test.BicycleCalories( 20 , 10, 10 ));
-
+//test;
     }
 }
 sdf
